@@ -1,0 +1,2 @@
+- [Library Genesis: A C Grayling - The Good Book: A Secular Bible](http://libgen.rs/book/index.php?md5=EA74087DCD7BCF51D9B0F275BDB59AAC)
+- [Library Genesis: A. C. Grayling - The Good Book: A Humanist Bible](http://libgen.rs/book/index.php?md5=DD752FA8FEC1C9B62106BB87D5F1797F)
